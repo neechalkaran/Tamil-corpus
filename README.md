@@ -6,4 +6,7 @@ http://vaani.neechalkaran.com/word
 &
 http://www.tamilvu.org/sites/default/files/tamil-computing-tools/Tamilinaiyam%20-%20Dictionary.zip
 
-Vaiyan.txt contains list of unique words in each blog post from vaiyan.blogspot.com, a largest blogspot in Tamil with Creative commons Licence.
+list of unique words from some blogger site
+http://vaiyan.blogspot.com Creative Commons Attribution-ShareAlike 4.0 International
+https://gnutamil.blogspot.com/ Creative Commons Attribution 3.0 Unported License
+http://www.badriseshadri.in/  Creative Commons Attribution 2.5 India License.
