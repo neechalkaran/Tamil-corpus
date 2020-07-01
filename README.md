@@ -10,3 +10,8 @@ list of unique words from some blogger site<br/>
 http://vaiyan.blogspot.com Creative Commons Attribution-ShareAlike 4.0 International<br/>
 https://gnutamil.blogspot.com/ Creative Commons Attribution 3.0 Unported License<br/>
 http://www.badriseshadri.in/  Creative Commons Attribution 2.5 India License.<br/>
+https://neel48.blogspot.com/ Creative Commons Attribution-NonCommercial 4.0 International License.<br/>
+http://tech.neechalkaran.com Copyleft<br/>
+http://thiru-padaippugal.blogspot.com/ unlicensed <br/>
+
+
